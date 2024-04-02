@@ -10,9 +10,6 @@
 2) Depois de preenchido, será exibida uma tela de boas vindas e das opções de <b>SAQUE</b>, <b>DEPÓSITO</b> e de <b>SAIR</b>; <br>
    º Selecionado SAQUE, será feita a subtração do saldo bancário; <br>
    º Selecionado DEPÓSITO, será feito a adição do valor digitado ao saldo bancário; <br>
-   º Selecionado SAIR, será exibida na tela uma mensagem de agradecimento. <br>
-
-<strong>Obs: A opção SAIR, mesmo que digitada, não ira impedir o loop de parar. </strong>
 </h3>
 
 # <h4>Requisitos:
