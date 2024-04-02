@@ -7,9 +7,9 @@
 # <h3>COMO FUNCIONA?
 <strong>Manual:</strong>
 1) Será exibido um campo para preencher os dados pessoais; <br>
-2) Depois de preenchido, será exibida uma tela de boas vindas e das opções de <b>SAQUE</b>, <b>DEPÓSITO</b> e de <b>SAIR</b>; <br>
-   º Selecionado SAQUE, será feita a subtração do saldo bancário; <br>
-   º Selecionado DEPÓSITO, será feito a adição do valor digitado ao saldo bancário; <br>
+2) Depois de preenchido, será exibida uma tela de boas vindas e das opções de <b>SAQUE</b> e de <b>DEPÓSITO</b>; <br>
+   º Selecionado <b>SAQUE</b>, será feita a subtração do saldo bancário; <br>
+   º Selecionado <b>DEPÓSITO</b>, será feito a adição do valor digitado ao saldo bancário; <br>
 </h3>
 
 # <h4>Requisitos:
