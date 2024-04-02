@@ -36,17 +36,6 @@ def deposito(saldo, funcao_depositar, valor_deposito):
       Saldo atual: R${funcao_depositar}
       ''')
 
-# FUNÇÃO --> SAIR DO SISTEMA
-def sair_do_sistema(sair):
-    while True:
-      sair = input(''' ENCERRANDO O SERVIÇO
-      Se optar por encerrar o serviço por aqui. Digite "ENCERRAR".
-      Caso ao contrário, Digite "NÃO ENCERRAR".
-      ''')
-      if sair == "ENCERRAR":
-        print("Serviço Encerrado... Obrigado por utilizar nossos produtos!")
-        break
-
 def direcionar():
     print(" ")
 
