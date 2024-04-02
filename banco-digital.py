@@ -48,7 +48,6 @@ def banco():
                     OPÇÕES DE SERVIÇOS
     (1) - SAQUE
     (2) - DEPÓSITO
-    (3) - SAIR
     ''')
     escolha_opcao = input("Escolha uma das opções acima: ")
     direcionar()
@@ -70,9 +69,6 @@ def banco():
           Depósito realizado com sucesso!
           Saldo atual: R${funcao_depositar}
           ''')
-    elif escolha_opcao == "3":
-         r = sair_do_sistema(sair)
-         print(r)
     else:
          print("Opção invalida. Tente novamente!")
 
