@@ -1,16 +1,14 @@
 # CÓDIGO EM PYTHON - BANCO DIGITAL
 
-# <h2>O QUE É?
-<strong>Introdução:</strong> Neste repositório, foi aplicado um código que simula um Banco Digital.<br>
-</h2>
+<h3>Introdução </h3>
+</strong> Neste repositório, foi aplicado um código que simula um Banco Digital. <br>
 
-# <h3>COMO FUNCIONA?
+<h3>Introdução </h3>
 <strong>Manual:</strong>
 1) Será exibido um campo para preencher os dados pessoais; <br>
 2) Depois de preenchido, será exibida uma tela de boas vindas e das opções de <b>SAQUE</b> e de <b>DEPÓSITO</b>; <br>
    º Selecionado <b>SAQUE</b>, será feita a subtração do saldo bancário; <br>
    º Selecionado <b>DEPÓSITO</b>, será feito a adição do valor digitado ao saldo bancário; <br>
-</h3>
 
 # <h4>Requisitos:
 º Ter um editor de texto na máquina; <br>
